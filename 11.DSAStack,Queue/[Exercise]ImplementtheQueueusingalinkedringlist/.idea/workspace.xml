@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e834f4b-4937-4f66-9aa6-12271e4a0257" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../[Exercise]InvertelementsinintegerarrayusingStack/invertintarrstack/src/InvertIntArrStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Practice]ImplementtheQueueusinglinkedlist/queuelinkedlist/src/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Practice]ImplementtheQueueusinglinkedlist/queuelinkedlist/src/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Practice]ImplementtheQueueusinglinkedlist/queuelinkedlist/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Exercise]Refactoring/java-cleancode-refactoring-exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Exercise]Refactoring/java-cleancode-refactoring-exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Practice]Refactoring-Renamevariablesandsplithang/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Practice]Refactoring-Renamevariablesandsplithang/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Practice]Refactoring-separatingmethods/java-cleancode-refactoring-method-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Practice]Refactoring-separatingmethods/java-cleancode-refactoring-method-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Practice]Refactoring-separationvariables/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.CleanCode&amp;Refactoring/[Practice]Refactoring-separationvariables/java-cleancode-refactoring-variable-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.AutomatedTesting&amp;TDD/[Practice]Simplecalculatorapplication/junit-simple-calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.AutomatedTesting&amp;TDD/[Practice]Simplecalculatorapplication/junit-simple-calculator" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1quv7DWdKkC6kOa60HyJv56nHWk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/queuelinkedringlist" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e834f4b-4937-4f66-9aa6-12271e4a0257" name="Default Changelist" comment="" />
+      <created>1617942119847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617942119847</updated>
+      <workItem from="1617942121134" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
